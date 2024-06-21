@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - DragonLight
+  - Home
+  - Monster
+  - EnemyCollider
+  - Soldier
+  - Health
+  - HomeEnemy
+  - HealthPlus
+  - Kamehameha
   layers:
   - Default
   - TransparentFX
@@ -11,9 +20,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Ground
+  - Target
+  - Player
   - 
   - 
   - 
